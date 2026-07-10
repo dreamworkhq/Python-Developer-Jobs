@@ -1,0 +1,78 @@
+{
+  "repo": "Python-Developer-Jobs",
+  "owner": "dreamworkhq",
+  "title": "Python Developer Jobs",
+  "tagline": "Python roles with Python, Django, Flask, FastAPI, or PySpark in the title: backend, data, and platform positions in the US and worldwide. Listings come straight from company career pages.",
+  "description": "Python developer jobs updated daily. Backend, data, and platform roles (Django, Flask, FastAPI, PySpark) with salaries, from 400,000+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-python-developer-jobs",
+  "topics": [
+    "python",
+    "python-jobs",
+    "jobs",
+    "job-search",
+    "django",
+    "flask",
+    "fastapi",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "developer-jobs",
+    "backend",
+    "software-engineering",
+    "hiring",
+    "python-developer"
+  ],
+  "utmCampaign": "gh-python-developer-jobs",
+  "keywords": "Python developer roles (Django, Flask, FastAPI, PySpark) across backend, data, and platform teams",
+  "sources": [
+    {
+      "function": "Engineering",
+      "search": "python"
+    },
+    {
+      "function": "Data Science",
+      "search": "python"
+    }
+  ],
+  "usOnly": false,
+  "titleInclude": "python|django|flask|fastapi|pyspark",
+  "titleExclude": "director|\\bvp\\b|head of|chief",
+  "maxRows": 600,
+  "minRows": 25,
+  "maxPagesPerSource": 200,
+  "groupBy": "functionPrimary",
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/Data-Engineering-Jobs",
+      "label": "Data Engineering Jobs: pipelines, warehouses, and data platform roles"
+    },
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    },
+    {
+      "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs",
+      "label": "New Grad Software Engineer Jobs: entry-level roles for graduates"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls new Python listings from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for Django, Flask, FastAPI, or PySpark roles."
+    },
+    {
+      "q": "What counts as a Python job here?",
+      "a": "Roles that name Python (or a core Python framework like Django, Flask, FastAPI, or PySpark) in the job title. Plenty of other postings use Python somewhere in the stack; keeping the filter on titles keeps every row unambiguously a Python role."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the postings themselves. When a posting does not state pay, the column is blank. Nothing is estimated."
+    },
+    {
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-python-developer-jobs\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
