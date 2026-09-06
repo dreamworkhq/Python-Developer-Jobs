@@ -1,9 +1,174 @@
 {
-  "generatedAt": "2026-09-05T14:08:45.858Z",
+  "generatedAt": "2026-09-06T14:23:27.287Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Python-Developer-Jobs",
   "count": 600,
   "listings": [
+    {
+      "id": "7aa5a3ff-c55f-422a-b84d-01c626a51cec",
+      "title": "Ingeniero Back End Python Senior",
+      "company": "AppCast",
+      "companyDomain": "appcast.com",
+      "location": "Barcelona, Barcelona",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-06T05:31:58.049Z",
+      "url": "https://www.dreamworkhq.com/job/7aa5a3ff-c55f-422a-b84d-01c626a51cec?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "67ca0cc1-583d-4aba-833e-52060236aa8e",
+      "title": "Python Developer con Databricks",
+      "company": "UST",
+      "companyDomain": "ust.com",
+      "location": "Madrid, Madrid",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-06T05:31:56.781Z",
+      "url": "https://www.dreamworkhq.com/job/67ca0cc1-583d-4aba-833e-52060236aa8e?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "463ef687-0f0e-403c-9493-6b5c1f4de46e",
+      "title": "Desarrollador/a Python (Flask/FastAPI)",
+      "company": "SopraSteria1",
+      "companyDomain": "soprasteria.com",
+      "location": "Alicante, Alicante",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-06T05:31:56.781Z",
+      "url": "https://www.dreamworkhq.com/job/463ef687-0f0e-403c-9493-6b5c1f4de46e?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "91c3fab3-3d72-4552-a0bc-6876c21442c7",
+      "title": "Senior Python Engineer (Control-M)",
+      "company": "UST",
+      "companyDomain": "ust.com",
+      "location": "Madrid, Madrid",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-06T05:31:56.781Z",
+      "url": "https://www.dreamworkhq.com/job/91c3fab3-3d72-4552-a0bc-6876c21442c7?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "3e67ffbb-8cef-4f07-bbc3-2394d22395b8",
+      "title": "Test automation (Python XCTest)",
+      "company": "AppCast",
+      "companyDomain": "appcast.com",
+      "location": "Barcelona, Barcelona",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-06T05:31:56.781Z",
+      "url": "https://www.dreamworkhq.com/job/3e67ffbb-8cef-4f07-bbc3-2394d22395b8?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "20e80cc7-e5c1-4e04-a82f-b33d86a9f3f7",
+      "title": "Data Engineer I (Databricks, AWS, Python)",
+      "company": "Travelers",
+      "companyDomain": "travelers.com",
+      "location": "CT - Hartford",
+      "remoteType": "hybrid",
+      "salaryMin": 109300,
+      "salaryMax": 180200,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-04T10:52:53.334Z",
+      "firstIndexedAt": "2026-09-05T20:29:47.954Z",
+      "url": "https://www.dreamworkhq.com/job/20e80cc7-e5c1-4e04-a82f-b33d86a9f3f7?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "afaaf17e-5119-4005-a635-b9bdd860e0f3",
+      "title": "FinOps Engineer Lead (Python exp. required)",
+      "company": "Lateral US",
+      "companyDomain": "lateral.io",
+      "location": "Charlotte",
+      "remoteType": "onsite",
+      "salaryMin": 125300,
+      "salaryMax": 167900,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-03T09:34:05.649Z",
+      "firstIndexedAt": "2026-09-05T19:00:50.007Z",
+      "url": "https://www.dreamworkhq.com/job/afaaf17e-5119-4005-a635-b9bdd860e0f3?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "218daef1-7f56-4941-bd99-f2d24cd77e95",
+      "title": "Lead Software Engineer - Python, Cloud & AI",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "GLASGOW, LANARKSHIRE, United Kingdom",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-04T15:31:52.000Z",
+      "firstIndexedAt": "2026-09-05T17:09:56.559Z",
+      "url": "https://www.dreamworkhq.com/job/218daef1-7f56-4941-bd99-f2d24cd77e95?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "3f5c6e7d-fdb3-4992-8684-6de969f1e372",
+      "title": "Senior Engineer with Python, GenAI & Database systems",
+      "company": "NielsenIQ",
+      "companyDomain": "nielseniq.com",
+      "location": "Pune, MH, India",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-09-05T13:41:41.301Z",
+      "firstIndexedAt": "2026-09-05T16:01:12.702Z",
+      "url": "https://www.dreamworkhq.com/job/3f5c6e7d-fdb3-4992-8684-6de969f1e372?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "209520a8-6e0f-4254-870d-b9c9282072a5",
+      "title": "Java/Python Full Stack Developer",
+      "company": "SBTGlobalInc",
+      "companyDomain": "sbtglobal.co",
+      "location": "Plano, TX, United States",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-04T21:42:02.714Z",
+      "firstIndexedAt": "2026-09-05T14:45:14.162Z",
+      "url": "https://www.dreamworkhq.com/job/209520a8-6e0f-4254-870d-b9c9282072a5?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "2159b34c-9e1b-4baa-979f-365dfc041158",
+      "title": "Senior Automation Testing Engineer (Python)",
+      "company": "Miratech",
+      "companyDomain": "miratechgroup.com",
+      "location": "Bangalore, , India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-05T04:13:26.105Z",
+      "firstIndexedAt": "2026-09-05T14:15:55.071Z",
+      "url": "https://www.dreamworkhq.com/job/2159b34c-9e1b-4baa-979f-365dfc041158?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
     {
       "id": "00a716d6-d6fe-4596-b753-a11d9357548b",
       "title": "Python Developer",
@@ -165,7 +330,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T07:38:33.051Z",
+      "postedAt": "2026-09-04T20:52:24.456Z",
       "firstIndexedAt": "2026-09-05T05:33:27.400Z",
       "url": "https://www.dreamworkhq.com/job/fc624f7b-9213-475b-a2e0-d8710c5f5fe7?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -180,7 +345,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-05T05:32:39.089Z",
+      "postedAt": "2026-09-04T09:06:37.822Z",
       "firstIndexedAt": "2026-09-05T05:32:46.322Z",
       "url": "https://www.dreamworkhq.com/job/b3816b44-d744-4546-8a43-94d23a071c77?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -195,7 +360,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-05T02:09:06.947Z",
+      "postedAt": "2026-09-05T06:49:27.752Z",
       "firstIndexedAt": "2026-09-05T02:09:10.533Z",
       "url": "https://www.dreamworkhq.com/job/3626df13-ccff-483c-8d64-cd03dc5b1b17?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -255,7 +420,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T19:49:43.092Z",
+      "postedAt": "2026-09-04T08:30:50.467Z",
       "firstIndexedAt": "2026-09-04T19:49:44.753Z",
       "url": "https://www.dreamworkhq.com/job/cec7ec7f-8d08-47d2-9ed5-a72e60746e8e?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -285,7 +450,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-05T02:17:24.131Z",
+      "postedAt": "2026-09-04T14:37:00.206Z",
       "firstIndexedAt": "2026-09-04T18:42:20.430Z",
       "url": "https://www.dreamworkhq.com/job/d097ccfb-4d94-47bc-87a7-0e7db6a00220?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -330,7 +495,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T06:43:57.122Z",
+      "postedAt": "2026-09-03T19:51:04.702Z",
       "firstIndexedAt": "2026-09-04T16:50:55.624Z",
       "url": "https://www.dreamworkhq.com/job/e30a4556-cd7c-4ecf-b561-03368f4bee33?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -365,21 +530,6 @@
       "url": "https://www.dreamworkhq.com/job/545fd1ba-7a5a-4ee4-a67c-b012d06ff3cd?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "88f0e5be-0ec4-4417-8ef2-55d0b9325211",
-      "title": "Senior Lead Software Engineer, Python Developer, Equities Technology - Prime Services",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Hong Kong",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-04T09:46:42.000Z",
-      "firstIndexedAt": "2026-09-04T14:33:20.148Z",
-      "url": "https://www.dreamworkhq.com/job/88f0e5be-0ec4-4417-8ef2-55d0b9325211?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "2a8f8e59-9db9-415f-ba1f-eb19eeac1907",
       "title": "Full Stack Java Python React Software Engineer III",
       "company": "JPMorgan Chase",
@@ -393,6 +543,21 @@
       "postedAt": "2026-09-04T13:01:24.000Z",
       "firstIndexedAt": "2026-09-04T14:33:20.148Z",
       "url": "https://www.dreamworkhq.com/job/2a8f8e59-9db9-415f-ba1f-eb19eeac1907?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "88f0e5be-0ec4-4417-8ef2-55d0b9325211",
+      "title": "Senior Lead Software Engineer, Python Developer, Equities Technology - Prime Services",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Hong Kong",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-04T09:46:42.000Z",
+      "firstIndexedAt": "2026-09-04T14:33:20.148Z",
+      "url": "https://www.dreamworkhq.com/job/88f0e5be-0ec4-4417-8ef2-55d0b9325211?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "cc3f441c-0693-4e63-b451-31c342930c27",
@@ -480,7 +645,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-05T05:13:06.333Z",
+      "postedAt": "2026-09-04T07:34:05.266Z",
       "firstIndexedAt": "2026-09-04T14:31:36.522Z",
       "url": "https://www.dreamworkhq.com/job/51124b02-7be8-4cb4-a93a-bb0808bf5874?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -675,9 +840,39 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-09-05T03:55:05.339Z",
+      "postedAt": "2026-09-05T05:34:38.867Z",
       "firstIndexedAt": "2026-09-04T09:31:02.313Z",
       "url": "https://www.dreamworkhq.com/job/943f823b-0346-4575-b020-9989c1a2df84?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "e532aa32-330e-42d5-bad4-dfdac450e1ed",
+      "title": "EM-EA-Python Developer-3",
+      "company": "Diconium",
+      "companyDomain": "diconium.com",
+      "location": "Bangalore",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-04T18:48:29.352Z",
+      "firstIndexedAt": "2026-09-04T08:30:48.940Z",
+      "url": "https://www.dreamworkhq.com/job/e532aa32-330e-42d5-bad4-dfdac450e1ed?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "c8915578-c59c-46ec-97f4-4ab18308b98f",
+      "title": "EM-EA-Python Developer-4",
+      "company": "Diconium",
+      "companyDomain": "diconium.com",
+      "location": "Bangalore",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-04T18:48:29.316Z",
+      "firstIndexedAt": "2026-09-04T08:30:48.940Z",
+      "url": "https://www.dreamworkhq.com/job/c8915578-c59c-46ec-97f4-4ab18308b98f?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "a1e27a22-6b60-4906-9ff4-42356cd84421",
@@ -690,7 +885,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T16:37:03.115Z",
+      "postedAt": "2026-09-04T18:48:29.181Z",
       "firstIndexedAt": "2026-09-04T08:30:48.940Z",
       "url": "https://www.dreamworkhq.com/job/a1e27a22-6b60-4906-9ff4-42356cd84421?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -705,24 +900,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T16:37:03.432Z",
+      "postedAt": "2026-09-04T18:48:29.343Z",
       "firstIndexedAt": "2026-09-04T08:30:48.940Z",
       "url": "https://www.dreamworkhq.com/job/e9793446-0636-443b-8d8f-d518b8e15ec3?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "c8915578-c59c-46ec-97f4-4ab18308b98f",
-      "title": "EM-EA-Python Developer-4",
-      "company": "Diconium",
-      "companyDomain": "diconium.com",
-      "location": "Bangalore",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T16:37:03.362Z",
-      "firstIndexedAt": "2026-09-04T08:30:48.940Z",
-      "url": "https://www.dreamworkhq.com/job/c8915578-c59c-46ec-97f4-4ab18308b98f?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "c0309052-5a33-43dc-a7b0-ef92c21f066f",
@@ -735,7 +915,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T16:37:03.515Z",
+      "postedAt": "2026-09-04T18:48:29.358Z",
       "firstIndexedAt": "2026-09-04T08:30:48.940Z",
       "url": "https://www.dreamworkhq.com/job/c0309052-5a33-43dc-a7b0-ef92c21f066f?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -855,7 +1035,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T09:31:44.480Z",
+      "postedAt": "2026-09-03T22:09:43.436Z",
       "firstIndexedAt": "2026-09-04T03:45:05.608Z",
       "url": "https://www.dreamworkhq.com/job/24c0a979-f2ff-4a80-9bde-75fd771b057d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -885,7 +1065,7 @@
       "salaryMax": 245600,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-04T03:42:41.149Z",
+      "postedAt": "2026-09-03T15:49:02.455Z",
       "firstIndexedAt": "2026-09-04T01:20:16.019Z",
       "url": "https://www.dreamworkhq.com/job/99e47890-6d13-4f30-b221-e517d2d4b4f2?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -920,19 +1100,19 @@
       "url": "https://www.dreamworkhq.com/job/e1c6ec12-4a82-42b1-b202-d7792f7436d4?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "6686988e-f306-4da4-8342-4dd4d47dbb23",
-      "title": "Senior Fullstack Engineer (Python and JS)",
-      "company": "SFox GmbH",
-      "companyDomain": null,
+      "id": "b028899d-36ab-466b-8caf-56cb0ea903df",
+      "title": "Python Backend Developer",
+      "company": "Zutobi",
+      "companyDomain": "zutobi.com",
       "location": "Europe",
       "remoteType": "remote",
-      "salaryMin": 40000,
-      "salaryMax": 40000,
-      "salaryPeriod": "annual",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T14:26:36.754Z",
+      "postedAt": "2026-09-03T13:30:26.792Z",
       "firstIndexedAt": "2026-09-03T23:35:11.122Z",
-      "url": "https://www.dreamworkhq.com/job/6686988e-f306-4da4-8342-4dd4d47dbb23?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "url": "https://www.dreamworkhq.com/job/b028899d-36ab-466b-8caf-56cb0ea903df?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "5756bca4-10aa-4c6c-9cab-79515e2206b5",
@@ -944,7 +1124,7 @@
       "salaryMin": 40000,
       "salaryMax": 40000,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_enabled",
+      "aiRoleKind": "non_ai",
       "postedAt": "2026-09-03T14:24:26.505Z",
       "firstIndexedAt": "2026-09-03T23:35:11.122Z",
       "url": "https://www.dreamworkhq.com/job/5756bca4-10aa-4c6c-9cab-79515e2206b5?utm_source=github&utm_campaign=gh-python-developer-jobs"
@@ -965,19 +1145,19 @@
       "url": "https://www.dreamworkhq.com/job/98bb1366-045b-420f-bc9d-ed140443df88?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "b028899d-36ab-466b-8caf-56cb0ea903df",
-      "title": "Python Backend Developer",
-      "company": "Zutobi",
-      "companyDomain": "zutobi.com",
-      "location": "Europe",
+      "id": "218a464a-9c96-4789-beab-fb8bad5bbbfc",
+      "title": "Middle Python Developer",
+      "company": "GlobalLogic",
+      "companyDomain": "globallogic.com",
+      "location": "Ukraine",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T13:30:26.792Z",
-      "firstIndexedAt": "2026-09-03T23:35:11.122Z",
-      "url": "https://www.dreamworkhq.com/job/b028899d-36ab-466b-8caf-56cb0ea903df?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-03T18:24:26.590Z",
+      "firstIndexedAt": "2026-09-03T23:34:59.931Z",
+      "url": "https://www.dreamworkhq.com/job/218a464a-9c96-4789-beab-fb8bad5bbbfc?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "ca21ee66-b0c3-4c72-a4ff-befc20622372",
@@ -1010,21 +1190,6 @@
       "url": "https://www.dreamworkhq.com/job/c01d5e27-9c6e-4caa-be87-ca4ca4fc3eaa?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "218a464a-9c96-4789-beab-fb8bad5bbbfc",
-      "title": "Middle Python Developer",
-      "company": "GlobalLogic",
-      "companyDomain": "globallogic.com",
-      "location": "Ukraine",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-03T18:24:26.590Z",
-      "firstIndexedAt": "2026-09-03T23:34:59.931Z",
-      "url": "https://www.dreamworkhq.com/job/218a464a-9c96-4789-beab-fb8bad5bbbfc?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "2b4607d0-cdcd-41e4-9c4a-a04b64ad4d19",
       "title": "Software Engineer (Java or Python) - Dallas, TX",
       "company": "Zimperium",
@@ -1050,7 +1215,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T10:46:36.206Z",
+      "postedAt": "2026-09-03T20:25:37.883Z",
       "firstIndexedAt": "2026-09-03T22:19:44.881Z",
       "url": "https://www.dreamworkhq.com/job/539b920b-531d-45f8-bf53-879c29ce79fd?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -1175,21 +1340,6 @@
       "url": "https://www.dreamworkhq.com/job/d616e03d-6374-4b5c-936b-67b559de841a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "7c7be525-1a69-4e77-82f0-c8228a605897",
-      "title": "Lead Software Engineer - Python and Spark",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "NY, United States",
-      "remoteType": "onsite",
-      "salaryMin": 156750,
-      "salaryMax": 215000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-03T12:39:36.000Z",
-      "firstIndexedAt": "2026-09-03T16:32:25.795Z",
-      "url": "https://www.dreamworkhq.com/job/7c7be525-1a69-4e77-82f0-c8228a605897?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "48c70ff7-bd59-4a08-81d3-edf5f17e24f7",
       "title": "Lead Software Engineer - Python",
       "company": "JPMorgan Chase",
@@ -1203,6 +1353,21 @@
       "postedAt": "2026-09-03T04:47:44.000Z",
       "firstIndexedAt": "2026-09-03T16:32:25.795Z",
       "url": "https://www.dreamworkhq.com/job/48c70ff7-bd59-4a08-81d3-edf5f17e24f7?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "7c7be525-1a69-4e77-82f0-c8228a605897",
+      "title": "Lead Software Engineer - Python and Spark",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "NY, United States",
+      "remoteType": "onsite",
+      "salaryMin": 156750,
+      "salaryMax": 215000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-03T12:39:36.000Z",
+      "firstIndexedAt": "2026-09-03T16:32:25.795Z",
+      "url": "https://www.dreamworkhq.com/job/7c7be525-1a69-4e77-82f0-c8228a605897?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "96f62f34-daa4-40d9-a79f-7d0259a5cdd4",
@@ -1290,7 +1455,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-04T03:55:05.339Z",
+      "postedAt": "2026-09-04T05:34:40.505Z",
       "firstIndexedAt": "2026-09-03T12:46:54.940Z",
       "url": "https://www.dreamworkhq.com/job/1a9ff562-f00a-4bab-8f2b-42ed8b8fb55a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -1325,21 +1490,6 @@
       "url": "https://www.dreamworkhq.com/job/afefa960-4a74-4107-80ca-c5c1feeb9dc2?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "44a13fe8-8925-4180-a504-0a9a33ab1b87",
-      "title": "Senior FullStack Engineer - TypeScript - Python",
-      "company": "Experian",
-      "companyDomain": "experian.com",
-      "location": "London, , United Kingdom",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T06:56:26.513Z",
-      "firstIndexedAt": "2026-09-03T12:31:17.921Z",
-      "url": "https://www.dreamworkhq.com/job/44a13fe8-8925-4180-a504-0a9a33ab1b87?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "9035638b-0e0e-4a5e-a683-9fa691b1bf05",
       "title": "Senior Software Engineer - Python",
       "company": "Experian",
@@ -1353,6 +1503,21 @@
       "postedAt": "2026-09-03T07:00:42.430Z",
       "firstIndexedAt": "2026-09-03T12:31:17.921Z",
       "url": "https://www.dreamworkhq.com/job/9035638b-0e0e-4a5e-a683-9fa691b1bf05?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "44a13fe8-8925-4180-a504-0a9a33ab1b87",
+      "title": "Senior FullStack Engineer - TypeScript - Python",
+      "company": "Experian",
+      "companyDomain": "experian.com",
+      "location": "London, , United Kingdom",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-03T06:56:26.513Z",
+      "firstIndexedAt": "2026-09-03T12:31:17.921Z",
+      "url": "https://www.dreamworkhq.com/job/44a13fe8-8925-4180-a504-0a9a33ab1b87?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "526e0d5f-0105-4ea0-95aa-d5593e745181",
@@ -1410,7 +1575,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-04T03:55:05.339Z",
+      "postedAt": "2026-09-04T05:34:40.543Z",
       "firstIndexedAt": "2026-09-03T10:06:21.828Z",
       "url": "https://www.dreamworkhq.com/job/6ab13612-1c6c-44b4-98bf-3c579caafede?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -1440,7 +1605,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T13:17:50.045Z",
+      "postedAt": "2026-09-03T14:20:22.720Z",
       "firstIndexedAt": "2026-09-03T09:58:26.806Z",
       "url": "https://www.dreamworkhq.com/job/2192d36c-0693-4b60-973d-458b2b21b369?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -1455,7 +1620,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-03T08:01:39.705Z",
+      "postedAt": "2026-09-03T21:18:16.300Z",
       "firstIndexedAt": "2026-09-03T09:04:58.284Z",
       "url": "https://www.dreamworkhq.com/job/a1097527-38f9-43ca-8170-f3c534f66900?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -1488,21 +1653,6 @@
       "postedAt": "2026-09-02T14:11:05.608Z",
       "firstIndexedAt": "2026-09-03T08:15:43.727Z",
       "url": "https://www.dreamworkhq.com/job/7bab91ad-d04d-4689-b133-4487d9fadc1e?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "8ea5eb90-01da-4a43-8eca-40f6ec0969b5",
-      "title": "Staff Software Development Engineer - Python Automation + Networking",
-      "company": "Zscaler",
-      "companyDomain": "zscaler.com",
-      "location": "Bangalore, IND; Hyderabad, IND",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T04:55:10.000Z",
-      "firstIndexedAt": "2026-09-03T05:46:18.785Z",
-      "url": "https://www.dreamworkhq.com/job/8ea5eb90-01da-4a43-8eca-40f6ec0969b5?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "e6ebab4c-17db-4f20-a401-f3286a09c5c6",
@@ -1610,21 +1760,6 @@
       "url": "https://www.dreamworkhq.com/job/8e863de1-c2b6-445d-a693-27110e23a935?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "6b4d6d55-1628-438a-8557-b12545cd7c45",
-      "title": "Junior Python Engineer",
-      "company": "TenThousand",
-      "companyDomain": "tenthousand.tech",
-      "location": "Ukraine",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-02T15:28:24.197Z",
-      "firstIndexedAt": "2026-09-02T15:35:36.816Z",
-      "url": "https://www.dreamworkhq.com/job/6b4d6d55-1628-438a-8557-b12545cd7c45?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "2284981f-65ee-4e7c-8129-16c5c88ccb05",
       "title": "Expert/Team Lead NodeJS/Python + React/Vue",
       "company": "Upstaff",
@@ -1695,7 +1830,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T02:09:07.256Z",
+      "postedAt": "2026-09-03T06:49:28.037Z",
       "firstIndexedAt": "2026-09-02T15:04:26.079Z",
       "url": "https://www.dreamworkhq.com/job/34f16c64-53a6-4d9d-8f33-19d65169ddfc?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -1710,7 +1845,7 @@
       "salaryMax": 198000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-01T04:38:57.114Z",
+      "postedAt": "2026-08-31T16:51:02.755Z",
       "firstIndexedAt": "2026-09-02T14:54:57.896Z",
       "url": "https://www.dreamworkhq.com/job/8729e668-ab13-45f7-98d2-9595052c8686?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -2118,21 +2253,6 @@
       "postedAt": "2025-01-23T02:03:44.000Z",
       "firstIndexedAt": "2026-09-02T10:43:24.569Z",
       "url": "https://www.dreamworkhq.com/job/5d6cbd13-6a57-46ff-92ef-761f095ce6d7?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "9d9ac299-a68d-42b6-aa52-afe9ae7f316c",
-      "title": "Python Developer",
-      "company": "PradeepIT Consulting Services",
-      "companyDomain": "pradeepit.com",
-      "location": "Pune, Maharashtra, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-03-01T14:42:38.000Z",
-      "firstIndexedAt": "2026-09-02T10:43:24.569Z",
-      "url": "https://www.dreamworkhq.com/job/9d9ac299-a68d-42b6-aa52-afe9ae7f316c?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "8c48b860-e0d1-4d45-a80e-3cd7e2993ab4",
@@ -2705,21 +2825,6 @@
       "url": "https://www.dreamworkhq.com/job/f6149f32-40a2-4d14-8fb6-ecdaf121b7a2?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "12839fe5-7e33-4331-b314-c9c54700882d",
-      "title": "Python Automation",
-      "company": "Talpro India",
-      "companyDomain": "talpro.in",
-      "location": "Bangalore North, Karnataka, 560001, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2023-09-01T10:53:24.000Z",
-      "firstIndexedAt": "2026-09-02T10:08:42.983Z",
-      "url": "https://www.dreamworkhq.com/job/12839fe5-7e33-4331-b314-c9c54700882d?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "3f62996d-4bc8-41cb-a9d1-c609bc523cc8",
       "title": "Automation Engineer – Python & Agentic AI",
       "company": "Prognova Partners",
@@ -2733,6 +2838,21 @@
       "postedAt": "2026-06-25T03:04:58.000Z",
       "firstIndexedAt": "2026-09-02T10:08:42.983Z",
       "url": "https://www.dreamworkhq.com/job/3f62996d-4bc8-41cb-a9d1-c609bc523cc8?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "12839fe5-7e33-4331-b314-c9c54700882d",
+      "title": "Python Automation",
+      "company": "Talpro India",
+      "companyDomain": "talpro.in",
+      "location": "Bangalore North, Karnataka, 560001, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2023-09-01T10:53:24.000Z",
+      "firstIndexedAt": "2026-09-02T10:08:42.983Z",
+      "url": "https://www.dreamworkhq.com/job/12839fe5-7e33-4331-b314-c9c54700882d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "1d0e1be7-bd1c-4398-8045-bdd45bf0ffa6",
@@ -2915,21 +3035,6 @@
       "url": "https://www.dreamworkhq.com/job/10bd78f0-5e38-47b3-ab1c-b69f1d064a7e?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "7b7e55a2-1162-4d19-a00d-d224e2022cdf",
-      "title": "Full Stack Web Developer - React/NodeJS with Python(Flask) that prioritizes work/life balance",
-      "company": "Dendrite.ai",
-      "companyDomain": "dendrite.ai",
-      "location": "Pune City, Maharashtra, 411001, India",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-10-31T12:31:40.000Z",
-      "firstIndexedAt": "2026-09-02T10:02:16.165Z",
-      "url": "https://www.dreamworkhq.com/job/7b7e55a2-1162-4d19-a00d-d224e2022cdf?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "a88ef5e2-4fae-48f0-a3e9-17bb987f3267",
       "title": "Python Developer | Resume Parsing / NLP (Recruitment Platform)",
       "company": "The Search House",
@@ -2943,6 +3048,21 @@
       "postedAt": "2025-10-23T07:42:54.000Z",
       "firstIndexedAt": "2026-09-02T10:02:16.165Z",
       "url": "https://www.dreamworkhq.com/job/a88ef5e2-4fae-48f0-a3e9-17bb987f3267?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "7b7e55a2-1162-4d19-a00d-d224e2022cdf",
+      "title": "Full Stack Web Developer - React/NodeJS with Python(Flask) that prioritizes work/life balance",
+      "company": "Dendrite.ai",
+      "companyDomain": "dendrite.ai",
+      "location": "Pune City, Maharashtra, 411001, India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-10-31T12:31:40.000Z",
+      "firstIndexedAt": "2026-09-02T10:02:16.165Z",
+      "url": "https://www.dreamworkhq.com/job/7b7e55a2-1162-4d19-a00d-d224e2022cdf?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "fd9e32d9-e610-47d7-9947-449cc7e39394",
@@ -3485,21 +3605,6 @@
       "url": "https://www.dreamworkhq.com/job/363c0f90-d5b8-4350-b9f2-1ffeee69fff7?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "7b95cade-fb45-4106-a50f-a83045de7133",
-      "title": "Software Engineer- Python, AI/ML, Sage Maker-Chennai",
-      "company": "Photon Group",
-      "companyDomain": "photongroup.com",
-      "location": "Chennai, Tamil Nadu, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2024-06-12T01:48:09.000Z",
-      "firstIndexedAt": "2026-09-02T09:18:50.293Z",
-      "url": "https://www.dreamworkhq.com/job/7b95cade-fb45-4106-a50f-a83045de7133?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "164b9d5f-6708-4cfa-a69f-747cef270560",
       "title": "Walk IN Drive - Python Developer - 7th July (Tuesday)",
       "company": "Rentokil Initial",
@@ -3528,6 +3633,21 @@
       "postedAt": "2025-01-23T17:53:23.000Z",
       "firstIndexedAt": "2026-09-02T09:18:50.293Z",
       "url": "https://www.dreamworkhq.com/job/9ca602cc-e358-4e4c-aae3-5d9f51c30dc5?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "7b95cade-fb45-4106-a50f-a83045de7133",
+      "title": "Software Engineer- Python, AI/ML, Sage Maker-Chennai",
+      "company": "Photon Group",
+      "companyDomain": "photongroup.com",
+      "location": "Chennai, Tamil Nadu, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2024-06-12T01:48:09.000Z",
+      "firstIndexedAt": "2026-09-02T09:18:50.293Z",
+      "url": "https://www.dreamworkhq.com/job/7b95cade-fb45-4106-a50f-a83045de7133?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "22799b51-af5b-495c-ab89-9113522f2b2c",
@@ -3755,21 +3875,6 @@
       "url": "https://www.dreamworkhq.com/job/53d4a0ca-53ba-4984-8156-88c471e414b4?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "1fe1ff62-202b-4f21-8e2b-fb72a635183e",
-      "title": "Principal Software Engineer (C++ / Python / AI Systems)",
-      "company": "FORVIA HELLA",
-      "companyDomain": "forvia-hella.com",
-      "location": "HIASPL Gurugram",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-13T04:31:20.000Z",
-      "firstIndexedAt": "2026-09-02T08:57:54.787Z",
-      "url": "https://www.dreamworkhq.com/job/1fe1ff62-202b-4f21-8e2b-fb72a635183e?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "63317999-f455-492b-97ff-0d028ec61d02",
       "title": "Python Fullstack Developer",
       "company": "PradeepIT Consulting Services",
@@ -3783,6 +3888,21 @@
       "postedAt": "2025-06-14T18:05:28.000Z",
       "firstIndexedAt": "2026-09-02T08:57:54.787Z",
       "url": "https://www.dreamworkhq.com/job/63317999-f455-492b-97ff-0d028ec61d02?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "1fe1ff62-202b-4f21-8e2b-fb72a635183e",
+      "title": "Principal Software Engineer (C++ / Python / AI Systems)",
+      "company": "FORVIA HELLA",
+      "companyDomain": "forvia-hella.com",
+      "location": "HIASPL Gurugram",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-13T04:31:20.000Z",
+      "firstIndexedAt": "2026-09-02T08:57:54.787Z",
+      "url": "https://www.dreamworkhq.com/job/1fe1ff62-202b-4f21-8e2b-fb72a635183e?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "e4d40e14-d8e7-4e4f-867c-b49f95088fd8",
@@ -3800,21 +3920,6 @@
       "url": "https://www.dreamworkhq.com/job/e4d40e14-d8e7-4e4f-867c-b49f95088fd8?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "2647e0c3-10f5-4d8a-854d-fbce35469e56",
-      "title": "Gen AI Engineer Python",
-      "company": "Coditas",
-      "companyDomain": "coditas.com",
-      "location": "Pune City, Maharashtra, 411001, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2025-08-07T16:20:03.000Z",
-      "firstIndexedAt": "2026-09-02T08:51:08.936Z",
-      "url": "https://www.dreamworkhq.com/job/2647e0c3-10f5-4d8a-854d-fbce35469e56?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "be2c4274-0b05-4214-a1b0-5281ea238800",
       "title": "Backend Engineer (Node.js / Python / Go)",
       "company": "Rubiscape",
@@ -3828,6 +3933,21 @@
       "postedAt": "2026-06-06T14:27:40.000Z",
       "firstIndexedAt": "2026-09-02T08:51:08.936Z",
       "url": "https://www.dreamworkhq.com/job/be2c4274-0b05-4214-a1b0-5281ea238800?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "2647e0c3-10f5-4d8a-854d-fbce35469e56",
+      "title": "Gen AI Engineer Python",
+      "company": "Coditas",
+      "companyDomain": "coditas.com",
+      "location": "Pune City, Maharashtra, 411001, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2025-08-07T16:20:03.000Z",
+      "firstIndexedAt": "2026-09-02T08:51:08.936Z",
+      "url": "https://www.dreamworkhq.com/job/2647e0c3-10f5-4d8a-854d-fbce35469e56?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "1720ede1-7b2c-4707-88a3-73f024b61d29",
@@ -3990,7 +4110,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-02T08:33:34.058Z",
+      "postedAt": "2026-09-02T21:36:13.775Z",
       "firstIndexedAt": "2026-09-02T08:46:20.666Z",
       "url": "https://www.dreamworkhq.com/job/de2f42ef-b0bf-4827-8687-f67758b3557f?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -4040,21 +4160,6 @@
       "url": "https://www.dreamworkhq.com/job/941a3a53-49b9-423b-8925-7c9601334945?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "e4cd122e-e752-493f-afea-2f4578b899c3",
-      "title": "Python Developer",
-      "company": "CipherCru Innovation",
-      "companyDomain": "ciphercru.com",
-      "location": "Jaipur, Rajasthan, 302001, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-02T21:34:13.000Z",
-      "firstIndexedAt": "2026-09-02T08:44:00.587Z",
-      "url": "https://www.dreamworkhq.com/job/e4cd122e-e752-493f-afea-2f4578b899c3?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "0f16a6d9-0b60-4fd1-b2be-fecf6f324474",
       "title": "Python Backend Engineer (Remote)",
       "company": "Crimson Interactive",
@@ -4068,6 +4173,21 @@
       "postedAt": "2022-09-14T18:47:46.000Z",
       "firstIndexedAt": "2026-09-02T08:44:00.587Z",
       "url": "https://www.dreamworkhq.com/job/0f16a6d9-0b60-4fd1-b2be-fecf6f324474?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "e4cd122e-e752-493f-afea-2f4578b899c3",
+      "title": "Python Developer",
+      "company": "CipherCru Innovation",
+      "companyDomain": "ciphercru.com",
+      "location": "Jaipur, Rajasthan, 302001, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-02T21:34:13.000Z",
+      "firstIndexedAt": "2026-09-02T08:44:00.587Z",
+      "url": "https://www.dreamworkhq.com/job/e4cd122e-e752-493f-afea-2f4578b899c3?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "54cb80ba-a6b1-4388-8f47-e7817c1ac42f",
@@ -4230,7 +4350,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-31T19:25:06.123Z",
+      "postedAt": "2026-08-31T21:27:38.902Z",
       "firstIndexedAt": "2026-09-02T08:25:08.756Z",
       "url": "https://www.dreamworkhq.com/job/e302a78c-2231-4ef1-a4a1-6af4d8762db0?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -4350,7 +4470,7 @@
       "salaryMax": 86000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-03T00:00:00.000Z",
+      "postedAt": "2026-09-04T00:00:00.000Z",
       "firstIndexedAt": "2026-09-02T05:02:08.914Z",
       "url": "https://www.dreamworkhq.com/job/94b9becd-4420-44af-a5d0-99a70429d214?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -4365,7 +4485,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T00:00:00.000Z",
+      "postedAt": "2026-09-04T00:00:00.000Z",
       "firstIndexedAt": "2026-09-02T05:02:07.774Z",
       "url": "https://www.dreamworkhq.com/job/c5195614-e100-48b3-8d30-6503b87f74dc?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -4383,6 +4503,21 @@
       "postedAt": "2026-09-01T05:10:51.000Z",
       "firstIndexedAt": "2026-09-02T03:45:54.401Z",
       "url": "https://www.dreamworkhq.com/job/9468ec0a-dec4-402e-9545-443b1ad2da48?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "718ecee4-b664-468d-95ab-ee500e3b7b86",
+      "title": "Lead Software Engineer- Java/Python, SQL, Databricks",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Jersey City, NJ, United States",
+      "remoteType": "onsite",
+      "salaryMin": 156750,
+      "salaryMax": 215000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-03T18:58:35.000Z",
+      "firstIndexedAt": "2026-09-02T03:45:52.972Z",
+      "url": "https://www.dreamworkhq.com/job/718ecee4-b664-468d-95ab-ee500e3b7b86?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "65a5f19a-bf84-4bb8-9615-17fe01a6a1e8",
@@ -4505,21 +4640,6 @@
       "url": "https://www.dreamworkhq.com/job/4016550d-693a-4ba6-9987-f16cb02e9517?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "f06e2b5f-be3f-44cb-83d9-371fd181c056",
-      "title": "Senior Software Engineer - Python",
-      "company": "GoDaddy",
-      "companyDomain": "godaddy.com",
-      "location": "India",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-31T07:07:44.000Z",
-      "firstIndexedAt": "2026-09-01T23:30:32.271Z",
-      "url": "https://www.dreamworkhq.com/job/f06e2b5f-be3f-44cb-83d9-371fd181c056?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "20b8f3d1-b97f-4d39-8d59-4d3cde87dee3",
       "title": "Evaboot: Agentic Python Engineer",
       "company": "We Work Remotely (All Jobs)",
@@ -4565,21 +4685,6 @@
       "url": "https://www.dreamworkhq.com/job/30d4e5be-aabb-4ca2-812f-fff11ede6a3a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "85f617cd-a98e-4b90-940f-fb138a066c08",
-      "title": "Python Developer - HR Strat/Engineer",
-      "company": "Capco",
-      "companyDomain": "capco.com",
-      "location": "India - Bengaluru",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-01T05:09:55.000Z",
-      "firstIndexedAt": "2026-09-01T21:45:54.311Z",
-      "url": "https://www.dreamworkhq.com/job/85f617cd-a98e-4b90-940f-fb138a066c08?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "7e3e9766-ab79-4b96-9e96-4b4a50446a9e",
       "title": "Python Ansible Developer",
       "company": "Capco",
@@ -4595,19 +4700,19 @@
       "url": "https://www.dreamworkhq.com/job/7e3e9766-ab79-4b96-9e96-4b4a50446a9e?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "1d24b219-0a69-4862-b2a1-7d1be62044e9",
-      "title": "Python Ansible Developer",
+      "id": "85f617cd-a98e-4b90-940f-fb138a066c08",
+      "title": "Python Developer - HR Strat/Engineer",
       "company": "Capco",
       "companyDomain": "capco.com",
-      "location": "India - Bengaluru; India - Pune",
-      "remoteType": null,
+      "location": "India - Bengaluru",
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-31T10:41:38.000Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-01T05:09:55.000Z",
       "firstIndexedAt": "2026-09-01T21:45:54.311Z",
-      "url": "https://www.dreamworkhq.com/job/1d24b219-0a69-4862-b2a1-7d1be62044e9?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "url": "https://www.dreamworkhq.com/job/85f617cd-a98e-4b90-940f-fb138a066c08?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "7809431c-cea0-4d95-b89f-4d83d17d3602",
@@ -4620,7 +4725,7 @@
       "salaryMax": 193000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-02T04:20:08.106Z",
+      "postedAt": "2026-09-01T11:20:05.748Z",
       "firstIndexedAt": "2026-09-01T20:58:02.463Z",
       "url": "https://www.dreamworkhq.com/job/7809431c-cea0-4d95-b89f-4d83d17d3602?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -4670,21 +4775,6 @@
       "url": "https://www.dreamworkhq.com/job/b1d39a93-dde0-4291-a150-95844b73e591?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "87ed8ad7-b301-4070-87df-a80f2293f67d",
-      "title": "Software Engineer: Full Stack - Python, Java or JavaScript/TypeScript (TS/SCI Clearance Required)",
-      "company": "Northpointtechnology",
-      "companyDomain": "northpointtechnology.com",
-      "location": "Chantilly, Virginia, United States",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-31T16:56:48.000Z",
-      "firstIndexedAt": "2026-09-01T20:15:17.690Z",
-      "url": "https://www.dreamworkhq.com/job/87ed8ad7-b301-4070-87df-a80f2293f67d?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "fb51618a-3d64-4b97-b70e-c248e9666145",
       "title": "Software Engineer: Full Stack - Python, Java or JavaScript/TypeScript (TS/SCI Clearance Required)",
       "company": "Northpointtechnology",
@@ -4700,6 +4790,21 @@
       "url": "https://www.dreamworkhq.com/job/fb51618a-3d64-4b97-b70e-c248e9666145?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "87ed8ad7-b301-4070-87df-a80f2293f67d",
+      "title": "Software Engineer: Full Stack - Python, Java or JavaScript/TypeScript (TS/SCI Clearance Required)",
+      "company": "Northpointtechnology",
+      "companyDomain": "northpointtechnology.com",
+      "location": "Chantilly, Virginia, United States",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-31T16:56:48.000Z",
+      "firstIndexedAt": "2026-09-01T20:15:17.690Z",
+      "url": "https://www.dreamworkhq.com/job/87ed8ad7-b301-4070-87df-a80f2293f67d?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "e4a1f3b2-a734-477c-bdda-08bd0782a89d",
       "title": "Lead Software Engineer, Full Stack (Java, Python, JavaScript)",
       "company": "Capital One",
@@ -4710,7 +4815,7 @@
       "salaryMax": 204700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-02T03:42:45.339Z",
+      "postedAt": "2026-09-01T15:49:06.198Z",
       "firstIndexedAt": "2026-09-01T20:11:09.140Z",
       "url": "https://www.dreamworkhq.com/job/e4a1f3b2-a734-477c-bdda-08bd0782a89d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -4800,24 +4905,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-01T11:08:45.200Z",
+      "postedAt": "2026-09-01T23:19:45.012Z",
       "firstIndexedAt": "2026-09-01T16:39:43.459Z",
       "url": "https://www.dreamworkhq.com/job/49b35e00-7ae6-4311-af49-004da82648f7?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "5dd77272-e9a2-4625-92f4-bfb51ca39337",
-      "title": "Lead Software Engineer - Java/Python Backend",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Bengaluru, Karnataka, India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-09-01T04:41:18.000Z",
-      "firstIndexedAt": "2026-09-01T16:18:45.137Z",
-      "url": "https://www.dreamworkhq.com/job/5dd77272-e9a2-4625-92f4-bfb51ca39337?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "f3ad1bac-27e6-4c3c-94e6-bb59d671940d",
@@ -4833,21 +4923,6 @@
       "postedAt": "2026-09-01T08:22:19.000Z",
       "firstIndexedAt": "2026-09-01T16:18:45.137Z",
       "url": "https://www.dreamworkhq.com/job/f3ad1bac-27e6-4c3c-94e6-bb59d671940d?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "68b078d1-d291-4a2e-94e0-03f62c8addb7",
-      "title": "Software Engineer II - Python",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-31T15:27:35.000Z",
-      "firstIndexedAt": "2026-09-01T16:18:45.137Z",
-      "url": "https://www.dreamworkhq.com/job/68b078d1-d291-4a2e-94e0-03f62c8addb7?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "38b23bd2-dccc-4428-ab71-e3aab61af347",
@@ -4878,6 +4953,36 @@
       "postedAt": "2026-09-01T09:29:01.000Z",
       "firstIndexedAt": "2026-09-01T16:18:45.137Z",
       "url": "https://www.dreamworkhq.com/job/5f76d81b-d103-4f9e-aced-0714eab2631d?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "68b078d1-d291-4a2e-94e0-03f62c8addb7",
+      "title": "Software Engineer II - Python",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-31T15:27:35.000Z",
+      "firstIndexedAt": "2026-09-01T16:18:45.137Z",
+      "url": "https://www.dreamworkhq.com/job/68b078d1-d291-4a2e-94e0-03f62c8addb7?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "5dd77272-e9a2-4625-92f4-bfb51ca39337",
+      "title": "Lead Software Engineer - Java/Python Backend",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Bengaluru, Karnataka, India",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-09-01T04:41:18.000Z",
+      "firstIndexedAt": "2026-09-01T16:18:45.137Z",
+      "url": "https://www.dreamworkhq.com/job/5dd77272-e9a2-4625-92f4-bfb51ca39337?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "3ef0d5fe-eac0-43c8-ad92-6e9b63cb08d8",
@@ -4940,21 +5045,6 @@
       "url": "https://www.dreamworkhq.com/job/728fd96f-9658-4c6c-be44-7b05c20c2e55?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "cc7d120c-499b-41d8-8016-0340358fb059",
-      "title": "Full Stack Python Development - Chennai",
-      "company": "Photon",
-      "companyDomain": "photon.com",
-      "location": "India",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-01T11:52:48.000Z",
-      "firstIndexedAt": "2026-09-01T15:31:41.672Z",
-      "url": "https://www.dreamworkhq.com/job/cc7d120c-499b-41d8-8016-0340358fb059?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "1c9b8635-3c83-4455-a9dd-d9e59133f1a8",
       "title": "Java,Springboot, Python, database/SQL,cloud technology -6-9 yrs- BLR",
       "company": "Photon",
@@ -4995,7 +5085,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-31T10:16:39.975Z",
+      "postedAt": "2026-08-31T13:16:56.517Z",
       "firstIndexedAt": "2026-09-01T15:12:57.365Z",
       "url": "https://www.dreamworkhq.com/job/8f7f2d5a-bfe6-4e91-915c-97d538356093?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -5025,7 +5115,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-03T03:27:13.718Z",
+      "postedAt": "2026-09-02T15:34:20.490Z",
       "firstIndexedAt": "2026-09-01T14:35:46.918Z",
       "url": "https://www.dreamworkhq.com/job/937c18de-2a6f-4649-a239-72b6de78baad?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -5115,9 +5205,24 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-01T06:03:18.372Z",
+      "postedAt": "2026-08-31T18:20:35.723Z",
       "firstIndexedAt": "2026-09-01T11:09:13.729Z",
       "url": "https://www.dreamworkhq.com/job/e8dc622c-7545-471a-9969-afc03014f936?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "3ef0b803-d685-46ca-92ee-048b821b562a",
+      "title": "Python Engineer - Macro & Fixed Income Team - Selby Jennings",
+      "company": "eFinancialCareers",
+      "companyDomain": "tradinghub.com",
+      "location": "London",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-01T11:01:29.145Z",
+      "url": "https://www.dreamworkhq.com/job/3ef0b803-d685-46ca-92ee-048b821b562a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "300d1415-891d-4a31-8835-5c51dec805e9",
@@ -5150,19 +5255,19 @@
       "url": "https://www.dreamworkhq.com/job/e9d0df29-1d2a-409a-bb8a-9f5267e1b826?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "3ef0b803-d685-46ca-92ee-048b821b562a",
-      "title": "Python Engineer - Macro & Fixed Income Team - Selby Jennings",
+      "id": "c01cd832-dd01-4d65-82db-1ce065ebc617",
+      "title": "Python Developer - mthree",
       "company": "eFinancialCareers",
       "companyDomain": "tradinghub.com",
       "location": "London",
-      "remoteType": "onsite",
+      "remoteType": null,
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "firstIndexedAt": "2026-09-01T11:01:29.145Z",
-      "url": "https://www.dreamworkhq.com/job/3ef0b803-d685-46ca-92ee-048b821b562a?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "url": "https://www.dreamworkhq.com/job/c01cd832-dd01-4d65-82db-1ce065ebc617?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "218756f9-3e03-4e67-8a22-e8bdbb0ffc82",
@@ -5180,21 +5285,6 @@
       "url": "https://www.dreamworkhq.com/job/218756f9-3e03-4e67-8a22-e8bdbb0ffc82?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "c01cd832-dd01-4d65-82db-1ce065ebc617",
-      "title": "Python Developer - mthree",
-      "company": "eFinancialCareers",
-      "companyDomain": "tradinghub.com",
-      "location": "London",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "firstIndexedAt": "2026-09-01T11:01:29.145Z",
-      "url": "https://www.dreamworkhq.com/job/c01cd832-dd01-4d65-82db-1ce065ebc617?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "04205e64-8145-4da3-bd4a-4495c97eee1c",
       "title": "Full-Stack Developer (.NET Core / Python / React / TypeScript)",
       "company": "Trend Micro",
@@ -5205,7 +5295,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-03T22:56:00.323Z",
+      "postedAt": "2026-09-03T09:08:25.234Z",
       "firstIndexedAt": "2026-09-01T10:56:21.397Z",
       "url": "https://www.dreamworkhq.com/job/04205e64-8145-4da3-bd4a-4495c97eee1c?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -5225,21 +5315,6 @@
       "url": "https://www.dreamworkhq.com/job/1ba3a217-cb64-487e-a07e-3f6c0b3b7940?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "652d55f4-17cb-495e-b65c-bf85d533b529",
-      "title": "Senior Full Stack Developer – Python & Google Cloud Platform",
-      "company": "EDITX BV",
-      "companyDomain": "lemon.tech",
-      "location": "Brussels, Belgium",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-01T06:15:09.315Z",
-      "firstIndexedAt": "2026-09-01T09:45:56.932Z",
-      "url": "https://www.dreamworkhq.com/job/652d55f4-17cb-495e-b65c-bf85d533b529?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "cdf5baf0-b0e3-45a2-bd94-024607aff1b9",
       "title": "Freelance Senior Python Developer",
       "company": "EDITX BV",
@@ -5253,6 +5328,21 @@
       "postedAt": "2026-09-01T06:15:12.495Z",
       "firstIndexedAt": "2026-09-01T09:45:56.932Z",
       "url": "https://www.dreamworkhq.com/job/cdf5baf0-b0e3-45a2-bd94-024607aff1b9?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "652d55f4-17cb-495e-b65c-bf85d533b529",
+      "title": "Senior Full Stack Developer – Python & Google Cloud Platform",
+      "company": "EDITX BV",
+      "companyDomain": "lemon.tech",
+      "location": "Brussels, Belgium",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-01T06:15:09.315Z",
+      "firstIndexedAt": "2026-09-01T09:45:56.932Z",
+      "url": "https://www.dreamworkhq.com/job/652d55f4-17cb-495e-b65c-bf85d533b529?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "23f805f1-3868-4e45-a634-17532f471524",
@@ -5295,12 +5385,12 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-01T08:01:40.290Z",
+      "postedAt": "2026-09-01T21:18:17.318Z",
       "firstIndexedAt": "2026-09-01T06:32:16.574Z",
       "url": "https://www.dreamworkhq.com/job/eb25f0f3-a6cc-4aae-958c-8fdfd40cc463?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "04d391a2-3965-47c7-9b1d-4a2817d2a1cf",
+      "id": "f99c2761-b671-4a83-adb2-535b23d41674",
       "title": "Python Developer",
       "company": "Leidos",
       "companyDomain": "leidos.com",
@@ -5310,9 +5400,9 @@
       "salaryMax": 195050,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-01T03:54:06.163Z",
+      "postedAt": "2026-08-31T16:08:46.648Z",
       "firstIndexedAt": "2026-09-01T00:25:08.212Z",
-      "url": "https://www.dreamworkhq.com/job/04d391a2-3965-47c7-9b1d-4a2817d2a1cf?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "url": "https://www.dreamworkhq.com/job/f99c2761-b671-4a83-adb2-535b23d41674?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "41c0dd52-82b2-4080-871f-40a34229b0dd",
@@ -5325,7 +5415,7 @@
       "salaryMax": 237350,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-01T03:54:05.846Z",
+      "postedAt": "2026-08-31T16:08:46.467Z",
       "firstIndexedAt": "2026-09-01T00:25:08.212Z",
       "url": "https://www.dreamworkhq.com/job/41c0dd52-82b2-4080-871f-40a34229b0dd?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -5345,21 +5435,6 @@
       "url": "https://www.dreamworkhq.com/job/f719d807-e3ee-4db4-a204-db11ae8bc337?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "99a77429-f8f9-4190-b784-2e3f196d2864",
-      "title": "Python Developer",
-      "company": "EVA",
-      "companyDomain": "eva.ua",
-      "location": "Ukraine",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-31T14:17:14.164Z",
-      "firstIndexedAt": "2026-08-31T18:40:13.504Z",
-      "url": "https://www.dreamworkhq.com/job/99a77429-f8f9-4190-b784-2e3f196d2864?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "64506116-6f6d-4e8d-8a84-fd92fbd2a2df",
       "title": "Python Web Scraping / Automation Engineer (AI)",
       "company": "AzCode",
@@ -5373,6 +5448,21 @@
       "postedAt": "2026-08-31T14:32:44.007Z",
       "firstIndexedAt": "2026-08-31T18:40:13.504Z",
       "url": "https://www.dreamworkhq.com/job/64506116-6f6d-4e8d-8a84-fd92fbd2a2df?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "99a77429-f8f9-4190-b784-2e3f196d2864",
+      "title": "Python Developer",
+      "company": "EVA",
+      "companyDomain": "eva.ua",
+      "location": "Ukraine",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-31T14:17:14.164Z",
+      "firstIndexedAt": "2026-08-31T18:40:13.504Z",
+      "url": "https://www.dreamworkhq.com/job/99a77429-f8f9-4190-b784-2e3f196d2864?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "c0f63b4e-f120-4a69-8daf-0eb41aac59e9",
@@ -5540,21 +5630,6 @@
       "url": "https://www.dreamworkhq.com/job/13e47fce-46b4-4553-84e3-f8aece934c9a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "a11fe028-1525-42f8-9706-e03b8dafe55a",
-      "title": "Desarrollador Backend Python",
-      "company": "Accenture",
-      "companyDomain": "accenture.com",
-      "location": "Medellin, Rivana 2",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-28T13:35:59.545Z",
-      "firstIndexedAt": "2026-08-30T23:20:33.555Z",
-      "url": "https://www.dreamworkhq.com/job/a11fe028-1525-42f8-9706-e03b8dafe55a?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "9092c605-010a-4b5c-a3b3-ce1fdfcf3813",
       "title": "Staff Fullstack Automation & Integration Developer (Python)",
       "company": "Alayacare",
@@ -5568,21 +5643,6 @@
       "postedAt": "2026-08-28T16:27:16.000Z",
       "firstIndexedAt": "2026-08-30T12:45:43.455Z",
       "url": "https://www.dreamworkhq.com/job/9092c605-010a-4b5c-a3b3-ce1fdfcf3813?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "55d3b0af-e9d1-4264-b12c-e0f97f28f436",
-      "title": "Data Engineer (Python / AWS / Big Data)",
-      "company": "Grupo EGOR",
-      "companyDomain": "egor.pt",
-      "location": "Lisboa",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-29T22:32:50.244Z",
-      "url": "https://www.dreamworkhq.com/job/55d3b0af-e9d1-4264-b12c-e0f97f28f436?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "38525734-5fba-454c-9ff6-ed1bd445f6f7",
@@ -5613,6 +5673,21 @@
       "postedAt": "2026-08-27T18:25:45.000Z",
       "firstIndexedAt": "2026-08-29T18:00:36.437Z",
       "url": "https://www.dreamworkhq.com/job/96a80b9b-0586-4da5-8f9a-36ed4af2690a?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "72129a8b-7377-4614-89c0-48a426bbf1bb",
+      "title": "Machine Learning Engineer - Python + MLOps",
+      "company": "Computrabajo México",
+      "companyDomain": "idscomercial.com",
+      "location": "Ciudad de México DF, Benito Juárez, Mexico",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-12T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-29T10:18:00.024Z",
+      "url": "https://www.dreamworkhq.com/job/72129a8b-7377-4614-89c0-48a426bbf1bb?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "90421374-ff75-45e3-9a08-10613a23181b",
@@ -5660,21 +5735,6 @@
       "url": "https://www.dreamworkhq.com/job/da2c26fd-532e-4cf3-9827-ee8498d76ed3?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "a76d8481-9555-48f3-952d-7ef1cc93c3ad",
-      "title": "Full Stack Developer (Python & Angular)",
-      "company": "Emergn",
-      "companyDomain": "emergn.com",
-      "location": "Portugal - Nationwide",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-29T09:01:26.724Z",
-      "url": "https://www.dreamworkhq.com/job/a76d8481-9555-48f3-952d-7ef1cc93c3ad?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "1b3eec02-2df3-4889-8e8b-187bf3113427",
       "title": "Senior Full Stack Developer (Python & Angular)",
       "company": "Emergn",
@@ -5688,6 +5748,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-29T09:01:26.724Z",
       "url": "https://www.dreamworkhq.com/job/1b3eec02-2df3-4889-8e8b-187bf3113427?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "a76d8481-9555-48f3-952d-7ef1cc93c3ad",
+      "title": "Full Stack Developer (Python & Angular)",
+      "company": "Emergn",
+      "companyDomain": "emergn.com",
+      "location": "Portugal - Nationwide",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-29T09:01:26.724Z",
+      "url": "https://www.dreamworkhq.com/job/a76d8481-9555-48f3-952d-7ef1cc93c3ad?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "458e1066-0441-4c4f-8e9a-3acafffa2d0b",
@@ -5895,24 +5970,9 @@
       "salaryMax": 218100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-28T08:46:47.468Z",
+      "postedAt": "2026-08-28T21:46:30.622Z",
       "firstIndexedAt": "2026-08-28T22:13:36.895Z",
       "url": "https://www.dreamworkhq.com/job/13dd0834-839d-4d8a-b69a-ca2e4a6cf611?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "6d85cf08-973b-4a41-9f89-ea94fe7538f0",
-      "title": "Software Engineering Intern - Python QT Application Plugin Generator",
-      "company": "Thermo Fisher Scientific",
-      "companyDomain": "thermofisher.com",
-      "location": "Eindhoven, Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-28T09:32:51.274Z",
-      "firstIndexedAt": "2026-08-28T21:42:10.719Z",
-      "url": "https://www.dreamworkhq.com/job/6d85cf08-973b-4a41-9f89-ea94fe7538f0?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "aa7c6315-5fae-4d10-a22c-afc4363b0115",
@@ -5925,7 +5985,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-29T03:30:25.565Z",
+      "postedAt": "2026-08-28T07:47:25.669Z",
       "firstIndexedAt": "2026-08-28T20:51:03.806Z",
       "url": "https://www.dreamworkhq.com/job/aa7c6315-5fae-4d10-a22c-afc4363b0115?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -5970,7 +6030,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-28T11:49:16.411Z",
+      "postedAt": "2026-08-29T00:03:50.297Z",
       "firstIndexedAt": "2026-08-28T16:01:28.496Z",
       "url": "https://www.dreamworkhq.com/job/cef1ed3e-10a3-4a7f-8a59-c099bcd75dae?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -5990,21 +6050,6 @@
       "url": "https://www.dreamworkhq.com/job/df16cdce-f951-42f2-82d5-016f27728d1d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "a3714cdf-3418-4983-a6e9-1eba70b5f6b9",
-      "title": "Desarrollador Backend Senior Python - Contratación inmediata",
-      "company": "Computrabajo Colombia",
-      "companyDomain": "celya.com.co",
-      "location": "Bogotá, D.C., Bogotá, D.C., Colombia",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-28T15:02:58.252Z",
-      "url": "https://www.dreamworkhq.com/job/a3714cdf-3418-4983-a6e9-1eba70b5f6b9?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "203b58b2-0973-4676-aa9c-125d1580bc32",
       "title": "Desarrollador Backend Python",
       "company": "Computrabajo Colombia",
@@ -6020,6 +6065,36 @@
       "url": "https://www.dreamworkhq.com/job/203b58b2-0973-4676-aa9c-125d1580bc32?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "a3714cdf-3418-4983-a6e9-1eba70b5f6b9",
+      "title": "Desarrollador Backend Senior Python - Contratación inmediata",
+      "company": "Computrabajo Colombia",
+      "companyDomain": "celya.com.co",
+      "location": "Bogotá, D.C., Bogotá, D.C., Colombia",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-26T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-28T15:02:58.252Z",
+      "url": "https://www.dreamworkhq.com/job/a3714cdf-3418-4983-a6e9-1eba70b5f6b9?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "75bb344a-3113-431f-a6dc-3f02f036529c",
+      "title": "Senior Backend Python + IA Developer - Remoto para residentes en Argentina",
+      "company": "Computrabajo Argentina",
+      "companyDomain": "adecco.com.ar",
+      "location": "Capital Federal, Monserrat, Argentina",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-28T15:02:56.348Z",
+      "url": "https://www.dreamworkhq.com/job/75bb344a-3113-431f-a6dc-3f02f036529c?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "bf218c10-b333-4da2-82d8-a02e1aab190d",
       "title": "Full Stack Python Developer",
       "company": "Edgewaterit",
@@ -6030,7 +6105,7 @@
       "salaryMax": 128860,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-09-05T13:15:31.687Z",
+      "postedAt": "2024-09-06T01:30:27.028Z",
       "firstIndexedAt": "2026-08-28T15:00:48.986Z",
       "url": "https://www.dreamworkhq.com/job/bf218c10-b333-4da2-82d8-a02e1aab190d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -6120,7 +6195,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-28T07:39:04.254Z",
+      "postedAt": "2026-08-28T20:55:51.037Z",
       "firstIndexedAt": "2026-08-28T07:53:09.112Z",
       "url": "https://www.dreamworkhq.com/job/550f2241-8890-4550-8f58-29c234532788?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -6150,7 +6225,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-09-03T13:00:38.978Z",
+      "postedAt": "2026-09-03T13:15:25.099Z",
       "firstIndexedAt": "2026-08-28T07:03:48.720Z",
       "url": "https://www.dreamworkhq.com/job/a97facae-eabe-4639-8d11-d862fe840a17?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -6195,7 +6270,7 @@
       "salaryMax": 163400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T11:18:10.752Z",
+      "postedAt": "2026-08-27T10:52:53.812Z",
       "firstIndexedAt": "2026-08-28T06:04:59.360Z",
       "url": "https://www.dreamworkhq.com/job/40d6341b-6c4e-4ac7-9114-6a32b26ca987?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -6270,24 +6345,9 @@
       "salaryMax": 47000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T13:30:44.840Z",
+      "postedAt": "2026-08-28T05:47:48.704Z",
       "firstIndexedAt": "2026-08-28T05:01:15.330Z",
       "url": "https://www.dreamworkhq.com/job/51e7c585-27a1-4a60-b236-0ca788aa52c5?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "98832717-5a02-449d-8e42-2e6e0652bf6b",
-      "title": "GenAI Python Systems Engineer – Experienced Associate",
-      "company": "Us Experienced",
-      "companyDomain": "experiencedrecruitingpartners.com",
-      "location": "IL-Chicago",
-      "remoteType": null,
-      "salaryMin": 63000,
-      "salaryMax": 140000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-28T06:22:00.961Z",
-      "firstIndexedAt": "2026-08-28T03:08:12.093Z",
-      "url": "https://www.dreamworkhq.com/job/98832717-5a02-449d-8e42-2e6e0652bf6b?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "22754711-aadf-43b8-a445-9258ee0de326",
@@ -6300,9 +6360,24 @@
       "salaryMax": 202000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-28T06:22:00.853Z",
+      "postedAt": "2026-08-27T10:31:36.739Z",
       "firstIndexedAt": "2026-08-28T03:08:12.093Z",
       "url": "https://www.dreamworkhq.com/job/22754711-aadf-43b8-a445-9258ee0de326?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "98832717-5a02-449d-8e42-2e6e0652bf6b",
+      "title": "GenAI Python Systems Engineer – Experienced Associate",
+      "company": "Us Experienced",
+      "companyDomain": "experiencedrecruitingpartners.com",
+      "location": "IL-Chicago",
+      "remoteType": null,
+      "salaryMin": 63000,
+      "salaryMax": 140000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-27T10:31:36.769Z",
+      "firstIndexedAt": "2026-08-28T03:08:12.093Z",
+      "url": "https://www.dreamworkhq.com/job/98832717-5a02-449d-8e42-2e6e0652bf6b?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "57d531cd-34a1-4b86-af6c-ef59463cbb85",
@@ -6348,21 +6423,6 @@
       "postedAt": "2026-08-27T16:02:14.672Z",
       "firstIndexedAt": "2026-08-28T02:51:20.197Z",
       "url": "https://www.dreamworkhq.com/job/4ad608b7-94d7-4931-b67a-71eeb7453115?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "8c380310-efb3-4146-b831-982440d2ea01",
-      "title": "Senior Full-stack Developer (React/Next.js + Node.js/Python)",
-      "company": "Devix",
-      "companyDomain": "devix.ai",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T19:24:11.926Z",
-      "firstIndexedAt": "2026-08-28T02:51:19.266Z",
-      "url": "https://www.dreamworkhq.com/job/8c380310-efb3-4146-b831-982440d2ea01?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "18cb7d49-9aaf-4b4f-8ebd-9398a26eb50a",
@@ -6480,7 +6540,7 @@
       "salaryMax": 204700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-28T03:42:48.581Z",
+      "postedAt": "2026-08-27T15:49:11.055Z",
       "firstIndexedAt": "2026-08-27T22:36:53.117Z",
       "url": "https://www.dreamworkhq.com/job/066b4bb0-c203-4800-a5a7-cc14cbe64ab2?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -6585,7 +6645,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T13:32:08.338Z",
+      "postedAt": "2026-08-28T03:03:55.571Z",
       "firstIndexedAt": "2026-08-27T16:59:18.872Z",
       "url": "https://www.dreamworkhq.com/job/469cd0ba-309e-42f4-b271-963463b4eec8?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -6665,36 +6725,6 @@
       "url": "https://www.dreamworkhq.com/job/683c1abf-5417-4d98-be95-d6796fdb9b1a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "aed765cb-8043-4668-a6af-471b6904178d",
-      "title": "AI Engineer (Python, Machine Learning, Generative AI/LLMs)",
-      "company": "Moduscreate",
-      "companyDomain": "moduscreate.com",
-      "location": "United States of America",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-26T10:53:11.000Z",
-      "firstIndexedAt": "2026-08-27T14:32:17.555Z",
-      "url": "https://www.dreamworkhq.com/job/aed765cb-8043-4668-a6af-471b6904178d?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "f0a57daf-4239-43aa-ae99-2f931dd2096e",
-      "title": "AI Engineer (Python, Machine Learning, Generative AI/LLMs)",
-      "company": "Moduscreate",
-      "companyDomain": "moduscreate.com",
-      "location": "Mexico",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-26T10:51:57.000Z",
-      "firstIndexedAt": "2026-08-27T14:32:17.555Z",
-      "url": "https://www.dreamworkhq.com/job/f0a57daf-4239-43aa-ae99-2f931dd2096e?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "2c8c930d-33e0-4fed-ae1e-cd14e924790f",
       "title": "Forward Deployed Engineer (Python, AI/ML, Generative AI)",
       "company": "Moduscreate",
@@ -6725,6 +6755,36 @@
       "url": "https://www.dreamworkhq.com/job/d36068f2-2579-4e20-859a-6eccbe4c3332?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "aed765cb-8043-4668-a6af-471b6904178d",
+      "title": "AI Engineer (Python, Machine Learning, Generative AI/LLMs)",
+      "company": "Moduscreate",
+      "companyDomain": "moduscreate.com",
+      "location": "United States of America",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-26T10:53:11.000Z",
+      "firstIndexedAt": "2026-08-27T14:32:17.555Z",
+      "url": "https://www.dreamworkhq.com/job/aed765cb-8043-4668-a6af-471b6904178d?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "f0a57daf-4239-43aa-ae99-2f931dd2096e",
+      "title": "AI Engineer (Python, Machine Learning, Generative AI/LLMs)",
+      "company": "Moduscreate",
+      "companyDomain": "moduscreate.com",
+      "location": "Mexico",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-26T10:51:57.000Z",
+      "firstIndexedAt": "2026-08-27T14:32:17.555Z",
+      "url": "https://www.dreamworkhq.com/job/f0a57daf-4239-43aa-ae99-2f931dd2096e?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "17e65151-856d-4e2d-bca2-646461d11705",
       "title": "API Engineer (Python)",
       "company": "IDC",
@@ -6738,21 +6798,6 @@
       "postedAt": "2026-08-27T04:00:00.000Z",
       "firstIndexedAt": "2026-08-27T14:15:24.678Z",
       "url": "https://www.dreamworkhq.com/job/17e65151-856d-4e2d-bca2-646461d11705?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "f57fc1c9-5542-42e0-9558-4e98398e85c3",
-      "title": "Senior Software Engineer - Python",
-      "company": "G2i",
-      "companyDomain": "g2i.co",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": 208000,
-      "salaryMax": 416000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-01T14:32:36.097Z",
-      "firstIndexedAt": "2026-08-27T14:01:33.457Z",
-      "url": "https://www.dreamworkhq.com/job/f57fc1c9-5542-42e0-9558-4e98398e85c3?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "67fd9ad0-ed4d-430d-b278-704ee9c54665",
@@ -6800,6 +6845,21 @@
       "url": "https://www.dreamworkhq.com/job/42ece333-c18e-4f68-b0cc-aaf15280d9b1?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "f57fc1c9-5542-42e0-9558-4e98398e85c3",
+      "title": "Senior Software Engineer - Python",
+      "company": "G2i",
+      "companyDomain": "g2i.co",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": 208000,
+      "salaryMax": 416000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-09-01T14:32:36.097Z",
+      "firstIndexedAt": "2026-08-27T14:01:33.457Z",
+      "url": "https://www.dreamworkhq.com/job/f57fc1c9-5542-42e0-9558-4e98398e85c3?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "85fd7abc-ebc3-41b5-9bbe-6bc39b6039b3",
       "title": "Développeur(se) IA (Python / IA-ML)",
       "company": "Onepoint",
@@ -6813,21 +6873,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-27T13:01:13.485Z",
       "url": "https://www.dreamworkhq.com/job/85fd7abc-ebc3-41b5-9bbe-6bc39b6039b3?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "d759e60e-4e41-47bd-970e-f9f2f78675bd",
-      "title": "Sr Fullstack (Python +React/Vite) & AI Engineer (Remote)",
-      "company": "knowmad mood",
-      "companyDomain": "knowmad.com",
-      "location": "Madrid, España, Spain",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-27T12:19:11.000Z",
-      "firstIndexedAt": "2026-08-27T12:45:21.635Z",
-      "url": "https://www.dreamworkhq.com/job/d759e60e-4e41-47bd-970e-f9f2f78675bd?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "482082dd-6343-45b6-bb95-21bc05799505",
@@ -7025,36 +7070,6 @@
       "url": "https://www.dreamworkhq.com/job/0ba3d1a6-2d5a-454e-986e-53232fc9f618?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "9c6caef7-1c1f-4dea-9062-2a9ec921d838",
-      "title": "Python Engineer IOT Platform",
-      "company": "EURES Netherlands",
-      "companyDomain": "marktlink.nl",
-      "location": "Netherlands",
-      "remoteType": null,
-      "salaryMin": 93000,
-      "salaryMax": 138000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T01:13:07.273Z",
-      "firstIndexedAt": "2026-08-27T07:47:18.175Z",
-      "url": "https://www.dreamworkhq.com/job/9c6caef7-1c1f-4dea-9062-2a9ec921d838?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "2bdef0dd-4b0d-4ad7-ade4-049538a651bc",
-      "title": "Développeur(se) Fullstack Python/React",
-      "company": "Onepoint",
-      "companyDomain": "wepoint.com",
-      "location": "Montreal, Canada",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-27T07:38:01.469Z",
-      "url": "https://www.dreamworkhq.com/job/2bdef0dd-4b0d-4ad7-ade4-049538a651bc?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "b7c7f862-c600-41d4-893b-95c4dcd246a5",
       "title": "Analyst Python Developer",
       "company": "JPMorgan Chase",
@@ -7125,24 +7140,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-27T00:00:00.000Z",
+      "postedAt": "2026-09-04T00:00:00.000Z",
       "firstIndexedAt": "2026-08-27T04:17:25.347Z",
       "url": "https://www.dreamworkhq.com/job/6cecd2c8-f7e7-4de5-83db-3df4b11b3d56?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "43bba005-47e3-48d1-9be3-f75cf4da90ff",
-      "title": "Medior/Senior Python Developer",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "strix.nl",
-      "location": "Noord-Holland, Netherlands",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-26T01:11:36.179Z",
-      "firstIndexedAt": "2026-08-27T02:16:37.712Z",
-      "url": "https://www.dreamworkhq.com/job/43bba005-47e3-48d1-9be3-f75cf4da90ff?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "e5fdc878-22b2-4f87-8e11-3c9ffdfc0a06",
@@ -7173,6 +7173,21 @@
       "postedAt": "2026-08-26T01:12:23.423Z",
       "firstIndexedAt": "2026-08-27T02:16:37.712Z",
       "url": "https://www.dreamworkhq.com/job/94d468e3-756e-4609-a8e8-85526ccfa3df?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "43bba005-47e3-48d1-9be3-f75cf4da90ff",
+      "title": "Medior/Senior Python Developer",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "strix.nl",
+      "location": "Noord-Holland, Netherlands",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-26T01:11:36.179Z",
+      "firstIndexedAt": "2026-08-27T02:16:37.712Z",
+      "url": "https://www.dreamworkhq.com/job/43bba005-47e3-48d1-9be3-f75cf4da90ff?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "1a092307-19ee-4bc8-95b8-b595e1a3b170",
@@ -7235,21 +7250,6 @@
       "url": "https://www.dreamworkhq.com/job/7db793f1-0613-436e-b32f-4499636cedb9?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "b1ff0dff-3113-44e9-9791-c7755a57a6fc",
-      "title": "Lead Software Engineer- Java /Python / Data",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Houston, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-26T19:37:50.000Z",
-      "firstIndexedAt": "2026-08-26T20:49:53.298Z",
-      "url": "https://www.dreamworkhq.com/job/b1ff0dff-3113-44e9-9791-c7755a57a6fc?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "74eb3c95-11e0-4705-8ebf-d622ff1a6a26",
       "title": "Software Engineer III - Python, Pyspark, GKP, Postgress",
       "company": "JPMorgan Chase",
@@ -7265,34 +7265,19 @@
       "url": "https://www.dreamworkhq.com/job/74eb3c95-11e0-4705-8ebf-d622ff1a6a26?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "17380f8b-7fba-4c07-912a-caee8bf64a10",
-      "title": "Python developer - Odoo & ERP Integraties",
-      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
-      "companyDomain": "goflow.be",
-      "location": "West Flanders, Belgium",
-      "remoteType": null,
+      "id": "b1ff0dff-3113-44e9-9791-c7755a57a6fc",
+      "title": "Lead Software Engineer- Java /Python / Data",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Houston, TX, United States",
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-26T07:15:41.164Z",
-      "firstIndexedAt": "2026-08-26T19:01:20.316Z",
-      "url": "https://www.dreamworkhq.com/job/17380f8b-7fba-4c07-912a-caee8bf64a10?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "0f6a7621-20ef-41df-8dad-6f022b0e3b97",
-      "title": "Satellit - Senior Python Developer",
-      "company": "ICTJOB BV",
-      "companyDomain": "atconglobal.com",
-      "location": "Brussels, Belgium",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-26T07:15:33.023Z",
-      "firstIndexedAt": "2026-08-26T19:01:20.316Z",
-      "url": "https://www.dreamworkhq.com/job/0f6a7621-20ef-41df-8dad-6f022b0e3b97?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-26T19:37:50.000Z",
+      "firstIndexedAt": "2026-08-26T20:49:53.298Z",
+      "url": "https://www.dreamworkhq.com/job/b1ff0dff-3113-44e9-9791-c7755a57a6fc?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "ceb68601-8272-44bb-8ecc-132153d658da",
@@ -7310,6 +7295,36 @@
       "url": "https://www.dreamworkhq.com/job/ceb68601-8272-44bb-8ecc-132153d658da?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "0f6a7621-20ef-41df-8dad-6f022b0e3b97",
+      "title": "Satellit - Senior Python Developer",
+      "company": "ICTJOB BV",
+      "companyDomain": "atconglobal.com",
+      "location": "Brussels, Belgium",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-26T07:15:33.023Z",
+      "firstIndexedAt": "2026-08-26T19:01:20.316Z",
+      "url": "https://www.dreamworkhq.com/job/0f6a7621-20ef-41df-8dad-6f022b0e3b97?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "17380f8b-7fba-4c07-912a-caee8bf64a10",
+      "title": "Python developer - Odoo & ERP Integraties",
+      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
+      "companyDomain": "goflow.be",
+      "location": "West Flanders, Belgium",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-26T07:15:41.164Z",
+      "firstIndexedAt": "2026-08-26T19:01:20.316Z",
+      "url": "https://www.dreamworkhq.com/job/17380f8b-7fba-4c07-912a-caee8bf64a10?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "0b29e664-bad5-4c4d-a3be-b4272a1968de",
       "title": "Medior/Senior Python Developer",
       "company": "EURES Netherlands",
@@ -7325,6 +7340,21 @@
       "url": "https://www.dreamworkhq.com/job/0b29e664-bad5-4c4d-a3be-b4272a1968de?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "f952b325-c0e4-4953-b2a2-d967cc8628dc",
+      "title": "Python Developer",
+      "company": "EURES Netherlands",
+      "companyDomain": "ictgroup.nl",
+      "location": "Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-26T01:12:23.423Z",
+      "firstIndexedAt": "2026-08-26T18:17:09.961Z",
+      "url": "https://www.dreamworkhq.com/job/f952b325-c0e4-4953-b2a2-d967cc8628dc?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "ab341273-a3a8-4727-9ce8-087b1d173f9c",
       "title": "Python Ontwikkelaar",
       "company": "EURES Netherlands",
@@ -7338,21 +7368,6 @@
       "postedAt": "2026-08-26T01:12:20.612Z",
       "firstIndexedAt": "2026-08-26T18:17:09.961Z",
       "url": "https://www.dreamworkhq.com/job/ab341273-a3a8-4727-9ce8-087b1d173f9c?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "73fe60c4-224b-43a4-b949-1bf18e5ff5fa",
-      "title": "Python Developer",
-      "company": "EURES Netherlands",
-      "companyDomain": "ictgroup.nl",
-      "location": "Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-26T01:12:29.636Z",
-      "firstIndexedAt": "2026-08-26T18:17:09.961Z",
-      "url": "https://www.dreamworkhq.com/job/73fe60c4-224b-43a4-b949-1bf18e5ff5fa?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "8de27a84-ec80-4817-b20f-7f6010fa6721",
@@ -7400,21 +7415,6 @@
       "url": "https://www.dreamworkhq.com/job/14933b3d-0a25-4674-8abc-ea4aa417c144?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "363ae825-3f65-4b57-810d-e91801dd8ff5",
-      "title": "Senior Backend Python + IA Developer - Remoto para residentes en Argentina",
-      "company": "Computrabajo Argentina",
-      "companyDomain": "ecosistemasglobal.com",
-      "location": "Capital Federal, Monserrat, Argentina",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-25T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-26T14:47:51.403Z",
-      "url": "https://www.dreamworkhq.com/job/363ae825-3f65-4b57-810d-e91801dd8ff5?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "96d6d289-6698-4497-8f1b-a6481c55b08f",
       "title": "Solution Support Engineer 5, Python Platform",
       "company": "Netflix",
@@ -7425,7 +7425,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-27T02:56:20.705Z",
+      "postedAt": "2026-08-26T15:06:57.643Z",
       "firstIndexedAt": "2026-08-26T14:27:01.665Z",
       "url": "https://www.dreamworkhq.com/job/96d6d289-6698-4497-8f1b-a6481c55b08f?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -7485,39 +7485,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-25T02:17:33.921Z",
+      "postedAt": "2026-08-24T14:37:10.216Z",
       "firstIndexedAt": "2026-08-26T11:53:00.915Z",
       "url": "https://www.dreamworkhq.com/job/71c06db5-2b29-473b-a994-8d3209d9db12?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "f2de7641-42e1-4f75-9821-f3142d9be590",
-      "title": "Software Engineer - Agentic AI (Python/Azure/GCP)",
-      "company": "Keybank",
-      "companyDomain": "key.com",
-      "location": "Brooklyn, OH",
-      "remoteType": "hybrid",
-      "salaryMin": 71000,
-      "salaryMax": 125000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-25T14:55:19.445Z",
-      "firstIndexedAt": "2026-08-26T11:14:14.173Z",
-      "url": "https://www.dreamworkhq.com/job/f2de7641-42e1-4f75-9821-f3142d9be590?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "95141877-6dcb-4fd8-ad49-880927e31ec6",
-      "title": "Senior Developer, Fullstack - Python",
-      "company": "Appnovation",
-      "companyDomain": "appnovation.com",
-      "location": "São Paulo",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-25T14:35:02.000Z",
-      "firstIndexedAt": "2026-08-26T09:30:38.879Z",
-      "url": "https://www.dreamworkhq.com/job/95141877-6dcb-4fd8-ad49-880927e31ec6?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "5318e934-8c80-40b1-b94e-7f0cbfc98466",
@@ -7550,6 +7520,21 @@
       "url": "https://www.dreamworkhq.com/job/46984b00-e171-422c-bf44-abaf884bf4cd?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
+      "id": "95141877-6dcb-4fd8-ad49-880927e31ec6",
+      "title": "Senior Developer, Fullstack - Python",
+      "company": "Appnovation",
+      "companyDomain": "appnovation.com",
+      "location": "São Paulo",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-25T14:35:02.000Z",
+      "firstIndexedAt": "2026-08-26T09:30:38.879Z",
+      "url": "https://www.dreamworkhq.com/job/95141877-6dcb-4fd8-ad49-880927e31ec6?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
       "id": "deed838b-635a-46ab-b519-f243cc74396d",
       "title": "Python full stack + AWS (ETL)",
       "company": "Broadridge",
@@ -7560,7 +7545,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-25T15:55:23.365Z",
+      "postedAt": "2026-08-25T09:49:57.937Z",
       "firstIndexedAt": "2026-08-26T08:36:22.129Z",
       "url": "https://www.dreamworkhq.com/job/deed838b-635a-46ab-b519-f243cc74396d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -7590,7 +7575,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-26T03:55:05.340Z",
+      "postedAt": "2026-08-26T05:34:46.541Z",
       "firstIndexedAt": "2026-08-26T02:31:28.097Z",
       "url": "https://www.dreamworkhq.com/job/ee6fbb3a-37be-4d82-9cc3-287e372b0941?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -7635,7 +7620,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-26T03:38:52.669Z",
+      "postedAt": "2026-08-25T15:47:16.811Z",
       "firstIndexedAt": "2026-08-25T21:08:02.994Z",
       "url": "https://www.dreamworkhq.com/job/5e15e65a-f51e-4794-a4fa-02fabb6e7810?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -7665,24 +7650,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-25T02:56:48.673Z",
+      "postedAt": "2026-08-24T15:08:56.588Z",
       "firstIndexedAt": "2026-08-25T18:48:27.642Z",
       "url": "https://www.dreamworkhq.com/job/7634048b-3b94-41ba-bd79-8cdf9ce6e7ec?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "01ab1485-ce08-4443-8b57-463e975ccb91",
-      "title": "Automation Engineer (Android / Anti-Detect, Python)",
-      "company": "Ppower pro",
-      "companyDomain": "ppower.pro",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-09-01T19:10:55.108Z",
-      "firstIndexedAt": "2026-08-25T17:36:26.999Z",
-      "url": "https://www.dreamworkhq.com/job/01ab1485-ce08-4443-8b57-463e975ccb91?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "d6ad8021-2e80-4718-afc7-e911db8985ee",
@@ -7698,6 +7668,21 @@
       "postedAt": "2026-08-25T15:00:05.044Z",
       "firstIndexedAt": "2026-08-25T17:36:26.999Z",
       "url": "https://www.dreamworkhq.com/job/d6ad8021-2e80-4718-afc7-e911db8985ee?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "01ab1485-ce08-4443-8b57-463e975ccb91",
+      "title": "Automation Engineer (Android / Anti-Detect, Python)",
+      "company": "Ppower pro",
+      "companyDomain": "ppower.pro",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-09-01T19:10:55.108Z",
+      "firstIndexedAt": "2026-08-25T17:36:26.999Z",
+      "url": "https://www.dreamworkhq.com/job/01ab1485-ce08-4443-8b57-463e975ccb91?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "dd58b2e2-d108-4313-9bda-571e0838bbab",
@@ -7775,21 +7760,6 @@
       "url": "https://www.dreamworkhq.com/job/c2cb4796-0569-4842-9e90-16395f18bd3a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "ff431c97-6270-4080-8437-7a5b9d829aa0",
-      "title": "Senior Automation QA Engineer (Python)",
-      "company": "Miratech",
-      "companyDomain": "miratechgroup.com",
-      "location": "Zhytomyr, Zhytomyr Oblast, Ukraine",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-25T12:16:20.064Z",
-      "firstIndexedAt": "2026-08-25T17:00:51.724Z",
-      "url": "https://www.dreamworkhq.com/job/ff431c97-6270-4080-8437-7a5b9d829aa0?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "99ead8db-8292-4ed7-b052-fb3d2550b122",
       "title": "Senior Automation QA Engineer (Python)",
       "company": "Miratech",
@@ -7805,19 +7775,19 @@
       "url": "https://www.dreamworkhq.com/job/99ead8db-8292-4ed7-b052-fb3d2550b122?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "e80ed70e-bb55-47e4-84f6-79db32a8f3e4",
+      "id": "ff431c97-6270-4080-8437-7a5b9d829aa0",
       "title": "Senior Automation QA Engineer (Python)",
       "company": "Miratech",
       "companyDomain": "miratechgroup.com",
-      "location": "Lviv, Lviv Oblast, Ukraine",
+      "location": "Zhytomyr, Zhytomyr Oblast, Ukraine",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-25T12:06:03.168Z",
+      "postedAt": "2026-08-25T12:16:20.064Z",
       "firstIndexedAt": "2026-08-25T17:00:51.724Z",
-      "url": "https://www.dreamworkhq.com/job/e80ed70e-bb55-47e4-84f6-79db32a8f3e4?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "url": "https://www.dreamworkhq.com/job/ff431c97-6270-4080-8437-7a5b9d829aa0?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "4537b479-7670-4e93-abb9-816a110de7f6",
@@ -7880,19 +7850,19 @@
       "url": "https://www.dreamworkhq.com/job/41696808-4e5c-424a-8683-fef51dcb4d89?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "63a7cf9f-1fdf-470a-8174-880266efc3cd",
-      "title": "Data Engineer – Python/AI",
-      "company": "Lateral US",
-      "companyDomain": "lateral.io",
-      "location": "Charlotte",
+      "id": "f6e69b1e-c651-460c-a47f-97d1934e971c",
+      "title": "Agentic AI Developer (Python)",
+      "company": "Clearroute",
+      "companyDomain": "clearroute.io",
+      "location": "London, UK, United Kingdom",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-24T18:42:57.419Z",
-      "firstIndexedAt": "2026-08-25T15:20:40.718Z",
-      "url": "https://www.dreamworkhq.com/job/63a7cf9f-1fdf-470a-8174-880266efc3cd?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-24T14:10:45.000Z",
+      "firstIndexedAt": "2026-08-25T16:33:30.418Z",
+      "url": "https://www.dreamworkhq.com/job/f6e69b1e-c651-460c-a47f-97d1934e971c?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "573d2bb9-0bac-4c02-a8b9-1843fe2c834b",
@@ -7970,21 +7940,6 @@
       "url": "https://www.dreamworkhq.com/job/42b94a94-d015-4dc5-bae4-0b5a4100628c?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "4c7391a7-b1ce-45a9-b79c-16122a2c7091",
-      "title": "Software Engineer II - Python, FastAPI/Django, Spark/Pyspark,Cloud, AI/ML - Mumbai/Bengaluru",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Mumbai, Maharashtra, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-25T10:09:11.000Z",
-      "firstIndexedAt": "2026-08-25T10:48:57.326Z",
-      "url": "https://www.dreamworkhq.com/job/4c7391a7-b1ce-45a9-b79c-16122a2c7091?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "bdb84ff1-157b-4993-94de-caf662b1cd56",
       "title": "Software Engineer III- Python/ AI",
       "company": "JPMorgan Chase",
@@ -7998,6 +7953,21 @@
       "postedAt": "2026-08-25T08:10:00.000Z",
       "firstIndexedAt": "2026-08-25T10:48:57.326Z",
       "url": "https://www.dreamworkhq.com/job/bdb84ff1-157b-4993-94de-caf662b1cd56?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "4c7391a7-b1ce-45a9-b79c-16122a2c7091",
+      "title": "Software Engineer II - Python, FastAPI/Django, Spark/Pyspark,Cloud, AI/ML - Mumbai/Bengaluru",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Mumbai, Maharashtra, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-25T10:09:11.000Z",
+      "firstIndexedAt": "2026-08-25T10:48:57.326Z",
+      "url": "https://www.dreamworkhq.com/job/4c7391a7-b1ce-45a9-b79c-16122a2c7091?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "0a521479-f301-45a0-be75-00193f860471",
@@ -8045,21 +8015,6 @@
       "url": "https://www.dreamworkhq.com/job/58622524-9be2-4fd0-b49c-9df58ce89d17?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "0af6a36a-eda7-4c73-8160-0d097e58a902",
-      "title": "Python AI",
-      "company": "Synechron",
-      "companyDomain": "synechron.com",
-      "location": "Bengaluru - Bellandur (GTP)",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-25T10:16:40.676Z",
-      "firstIndexedAt": "2026-08-25T07:26:14.352Z",
-      "url": "https://www.dreamworkhq.com/job/0af6a36a-eda7-4c73-8160-0d097e58a902?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
       "id": "9c6c0736-1d65-4a00-a957-760c9c4a6c47",
       "title": "Python Developer – Snowflake, ETL/ELT, Advanced SQL & Cloud Data Engineering",
       "company": "Synechron",
@@ -8070,9 +8025,24 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-01T10:16:39.761Z",
+      "postedAt": "2026-09-01T13:16:56.296Z",
       "firstIndexedAt": "2026-08-25T07:26:14.352Z",
       "url": "https://www.dreamworkhq.com/job/9c6c0736-1d65-4a00-a957-760c9c4a6c47?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "0af6a36a-eda7-4c73-8160-0d097e58a902",
+      "title": "Python AI",
+      "company": "Synechron",
+      "companyDomain": "synechron.com",
+      "location": "Bengaluru - Bellandur (GTP)",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-25T13:16:57.179Z",
+      "firstIndexedAt": "2026-08-25T07:26:14.352Z",
+      "url": "https://www.dreamworkhq.com/job/0af6a36a-eda7-4c73-8160-0d097e58a902?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "6093bf50-fc2d-4a1d-baca-c22a3cde63ad",
@@ -8175,7 +8145,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-24T10:16:40.912Z",
+      "postedAt": "2026-08-24T13:16:57.569Z",
       "firstIndexedAt": "2026-08-25T01:24:05.724Z",
       "url": "https://www.dreamworkhq.com/job/5195b961-4d1d-4bc8-ba0d-47db8046a356?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -8190,7 +8160,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-24T10:16:40.906Z",
+      "postedAt": "2026-08-24T13:16:57.441Z",
       "firstIndexedAt": "2026-08-25T01:24:05.724Z",
       "url": "https://www.dreamworkhq.com/job/4344b64a-f188-400e-817b-c6b925b59787?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -8211,7 +8181,7 @@
     },
     {
       "id": "2d709a5a-1ec7-4d76-a512-7147046224b8",
-      "title": "Lead Software Engineer- Python",
+      "title": "Lead Software Engineer- Python / AI",
       "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
       "location": "Houston, TX, United States",
@@ -8280,7 +8250,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-24T11:51:41.119Z",
+      "postedAt": "2026-08-24T12:05:29.866Z",
       "firstIndexedAt": "2026-08-24T16:16:10.828Z",
       "url": "https://www.dreamworkhq.com/job/2a85d7dc-ad2e-486f-98a0-f84904bf83de?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -8310,7 +8280,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-02T23:44:38.420Z",
+      "postedAt": "2026-09-02T23:48:27.856Z",
       "firstIndexedAt": "2026-08-24T10:10:07.568Z",
       "url": "https://www.dreamworkhq.com/job/8aa02c3a-c663-4e01-88c3-4db27ff5de6a?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -8445,7 +8415,7 @@
       "salaryMax": 137600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T03:51:28.141Z",
+      "postedAt": "2026-08-19T12:20:46.578Z",
       "firstIndexedAt": "2026-08-22T14:51:38.024Z",
       "url": "https://www.dreamworkhq.com/job/f6bce2fa-5ad0-4b1d-bb3d-ca5d174183f1?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -8465,7 +8435,7 @@
       "url": "https://www.dreamworkhq.com/job/0071193c-3efa-4015-b764-07889771d222?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
-      "id": "a712d6d2-504c-4205-a70f-000ddd34f831",
+      "id": "e010e48d-9ef9-4421-a2fb-5a505c2c3c5d",
       "title": "Ref. 20595: Desarrollador Python / FastAPI / Remoto",
       "company": "Computrabajo Argentina",
       "companyDomain": "visualmedica.com",
@@ -8477,7 +8447,7 @@
       "aiRoleKind": "ai_explicit",
       "postedAt": "2026-08-21T00:00:00.000Z",
       "firstIndexedAt": "2026-08-22T14:17:48.262Z",
-      "url": "https://www.dreamworkhq.com/job/a712d6d2-504c-4205-a70f-000ddd34f831?utm_source=github&utm_campaign=gh-python-developer-jobs"
+      "url": "https://www.dreamworkhq.com/job/e010e48d-9ef9-4421-a2fb-5a505c2c3c5d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "f2014a11-bd57-4763-9457-f206e591fb81",
@@ -8493,21 +8463,6 @@
       "postedAt": "2026-08-20T00:00:00.000Z",
       "firstIndexedAt": "2026-08-22T14:17:48.262Z",
       "url": "https://www.dreamworkhq.com/job/f2014a11-bd57-4763-9457-f206e591fb81?utm_source=github&utm_campaign=gh-python-developer-jobs"
-    },
-    {
-      "id": "2e692fcd-1b66-4cb0-94b4-863c16446287",
-      "title": "FDE AI/ Solutions Architect (AI, Python/Data)",
-      "company": "Provectus",
-      "companyDomain": "provectus.ai",
-      "location": "Ukraine",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-21T10:11:51.866Z",
-      "firstIndexedAt": "2026-08-22T07:45:16.088Z",
-      "url": "https://www.dreamworkhq.com/job/2e692fcd-1b66-4cb0-94b4-863c16446287?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
     {
       "id": "51ddb533-22dd-4164-8b1f-663c32c03a64",
@@ -8745,7 +8700,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-21T10:16:41.143Z",
+      "postedAt": "2026-08-21T13:16:57.678Z",
       "firstIndexedAt": "2026-08-21T21:55:20.257Z",
       "url": "https://www.dreamworkhq.com/job/5f14ab24-5451-4735-8a04-b265f95b9f3d?utm_source=github&utm_campaign=gh-python-developer-jobs"
     },
@@ -9003,6 +8958,51 @@
       "postedAt": "2026-08-20T14:08:49.117Z",
       "firstIndexedAt": "2026-08-21T04:30:36.680Z",
       "url": "https://www.dreamworkhq.com/job/af48ce20-9655-4bd2-b68a-0fa33442dc3d?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "72d1d7ea-2792-4a0f-81e0-1f67e2df4433",
+      "title": "Software Engineer Python - Advanced | Columbus, US",
+      "company": "Photon",
+      "companyDomain": "photon.com",
+      "location": "United States",
+      "remoteType": null,
+      "salaryMin": 42000,
+      "salaryMax": 147000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-21T02:20:18.000Z",
+      "firstIndexedAt": "2026-08-21T03:32:26.174Z",
+      "url": "https://www.dreamworkhq.com/job/72d1d7ea-2792-4a0f-81e0-1f67e2df4433?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "4c559879-9efe-40e6-aa08-010f0219173b",
+      "title": "Software Engineer (Python) | eBike (f/m/div.)",
+      "company": "Bosch",
+      "companyDomain": "bosch.com",
+      "location": "Braga, Braga, Portugal",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T16:11:14.445Z",
+      "firstIndexedAt": "2026-08-21T01:32:29.565Z",
+      "url": "https://www.dreamworkhq.com/job/4c559879-9efe-40e6-aa08-010f0219173b?utm_source=github&utm_campaign=gh-python-developer-jobs"
+    },
+    {
+      "id": "ecc5ef0a-945b-4cac-ae6c-38e750aa4792",
+      "title": "DESARROLLADOR/A PYTHON (IKERLAN)",
+      "company": "EURES Spain (Professional)",
+      "companyDomain": "goodjob.es",
+      "location": "Basque Country, Spain",
+      "remoteType": "onsite",
+      "salaryMin": 337000,
+      "salaryMax": 337000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T20:00:24.123Z",
+      "firstIndexedAt": "2026-08-20T22:30:42.992Z",
+      "url": "https://www.dreamworkhq.com/job/ecc5ef0a-945b-4cac-ae6c-38e750aa4792?utm_source=github&utm_campaign=gh-python-developer-jobs"
     }
   ]
 }
